@@ -1,0 +1,5 @@
+{
+  "entryPagePath": "game.js",
+  "deviceOrientation": "portrait",
+  "openDataContext": "src/openDataContext"
+}

@@ -1,0 +1,14 @@
+{
+  "miniprogramRoot": "./",
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true
+  },
+  "appid": "",
+  "projectname": "tetris",
+  "libVersion": "2.24.4",
+  "condition": {}
+}
